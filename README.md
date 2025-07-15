@@ -87,5 +87,5 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dimxlight/Dimxlight/main/banner.png" alt="Shantanu Kawtikwar Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShantanuKawtikwar/ShantanuKawtikwar/main/banner.png" alt="Shantanu Kawtikwar Banner" width="100%">
 </p>
