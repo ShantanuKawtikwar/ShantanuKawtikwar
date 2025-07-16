@@ -33,9 +33,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimxlight&show_icons=true&theme=transparent" alt="Shantanu's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKawtikwar&show_icons=true&theme=transparent" alt="Shantanu's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimxlight&theme=transparent" alt="Shantanu's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKawtikwar&theme=transparent" alt="Shantanu's GitHub Streak"/>
 </p>
 
 ---
