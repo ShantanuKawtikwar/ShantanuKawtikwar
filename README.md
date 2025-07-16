@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKawtikwar&show_icons=true&theme=transparent" alt="Shantanu's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKawtikwar" alt="GitHub Streak"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKawtikwar)
 </p>
 
 ---
