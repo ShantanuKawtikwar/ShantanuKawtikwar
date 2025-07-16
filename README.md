@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Artificial_Intelligence-4CAF50?style=for-the-badge&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Cybersecurity-2E86C1?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analytics-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project_Management-FFB300?style=for-the-badge&logo=projectmanagement&logoColor=white"/>
